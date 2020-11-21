@@ -1,0 +1,26 @@
+body {
+  font-family: $serif;
+  color: $text-color;
+  background: $body-background;
+}
+
+.wrapper {
+  margin: 0 auto;
+  max-width: 1000px;
+  background: $wrapper-background;
+  height: 100vh;
+  padding: 100px 10px;
+}
+
+ul {
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: $text-color;
+}

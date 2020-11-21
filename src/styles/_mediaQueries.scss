@@ -1,0 +1,57 @@
+@media(max-width: 1000px) {
+  body {
+    background: $wrapper-background;
+  }
+
+  .wrapper {
+    height: auto;
+  }
+
+  .panel {
+    background-size: cover;
+    h1 {
+      left: 10%;
+    }
+  }
+
+  .sidePanel {
+    right: 0;
+  }
+}
+
+@media(max-width: 715px) {
+  .sidePanel {
+    height: 15%;
+    width: 100%;
+    bottom: 0;
+    padding-top: 10px;
+    .designLink {
+      margin-top: 10px;
+    }
+  }
+}
+
+@media(max-width: 670px) {
+  .wrapper {
+    padding: 10px;
+  }
+}
+
+@media(max-width: 389px) {
+  .panel {
+    h1 {
+      width: 200px;
+      top: 0;
+      left: 120px;
+    }
+  }
+}
+
+@media(max-width: 345px) {
+  .panel {
+    h1 {
+      left: 90px;
+      width: 100px;
+    }
+  }
+}

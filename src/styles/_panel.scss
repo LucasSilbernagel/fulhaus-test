@@ -1,0 +1,38 @@
+.panel {
+  background-image: url("../assets/bkg.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: 500px;
+  animation: fadeInBackground 2s;
+  z-index: 10;
+  position: relative;
+  h1 {
+    position: absolute;
+    top: 170px;
+    left: 200px;
+    font-size: 2.9rem;
+    animation: fadeInTitle 3s;
+  }
+}
+
+/* Animation to fade in background image */
+@keyframes fadeInBackground {
+  from {
+    opacity: 0;
+  }
+}
+
+/* Animation to fade in title */
+@keyframes fadeInTitle {
+  0% {
+      opacity: 0;
+    }
+    60% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+}
