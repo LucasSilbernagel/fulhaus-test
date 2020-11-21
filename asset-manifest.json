@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fulhaus-test/static/css/main.4b8d37f5.chunk.css",
+    "main.js": "/fulhaus-test/static/js/main.c384e9a9.chunk.js",
+    "main.js.map": "/fulhaus-test/static/js/main.c384e9a9.chunk.js.map",
+    "runtime-main.js": "/fulhaus-test/static/js/runtime-main.9f5afe2a.js",
+    "runtime-main.js.map": "/fulhaus-test/static/js/runtime-main.9f5afe2a.js.map",
+    "static/js/2.4a2814bd.chunk.js": "/fulhaus-test/static/js/2.4a2814bd.chunk.js",
+    "static/js/2.4a2814bd.chunk.js.map": "/fulhaus-test/static/js/2.4a2814bd.chunk.js.map",
+    "index.html": "/fulhaus-test/index.html",
+    "precache-manifest.adaa10e1c992133ebb648fd9178aa80a.js": "/fulhaus-test/precache-manifest.adaa10e1c992133ebb648fd9178aa80a.js",
+    "service-worker.js": "/fulhaus-test/service-worker.js",
+    "static/css/main.4b8d37f5.chunk.css.map": "/fulhaus-test/static/css/main.4b8d37f5.chunk.css.map",
+    "static/js/2.4a2814bd.chunk.js.LICENSE.txt": "/fulhaus-test/static/js/2.4a2814bd.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/fulhaus-test/static/media/bkg.019e64c5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f5afe2a.js",
+    "static/js/2.4a2814bd.chunk.js",
+    "static/css/main.4b8d37f5.chunk.css",
+    "static/js/main.c384e9a9.chunk.js"
+  ]
+}
